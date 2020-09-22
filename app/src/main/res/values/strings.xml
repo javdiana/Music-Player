@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="title_my_library">My Library</string>
+    <string name="title_search">Search</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="tab_text_1">Favourites</string>
+    <string name="tab_text_2">Playlist</string>
+    <string name="tab_text_3">History</string>
+</resources>
